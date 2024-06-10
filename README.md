@@ -1,7 +1,7 @@
 # F-DATA
 F-DATA: A Fugaku Workload Dataset for Job-centric Predictive Modelling in HPC Systems
 
-This repository contains the scripts and documentation for the F-DATA, available in Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11467483.svg)](https://doi.org/10.5281/zenodo.11467483).
+This repository contains the scripts and documentation for the F-DATA, the dataset itself is available on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11467483.svg)](https://doi.org/10.5281/zenodo.11467483).
 
 ## Instruction on how to load the data 
 
@@ -27,4 +27,4 @@ df.head()
 
 ## Contact us 
 
-For any information on F-DATA don't hesitate to contact us at: francesco.antici98[at]gmail.com.
+For any information on F-DATA don't hesitate to contact us at: Francesco Antici (francesco.antici98[at]gmail.com) or [Jens Domke](https://www.r-ccs.riken.jp/en/research/labs/sprt/).
